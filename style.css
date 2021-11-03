@@ -28,3 +28,17 @@ h1{
 .header-part img{
     width: 100%;
 }
+#About-Area{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.About-Area-part{
+    width: 50%;
+    padding-right: 5%;
+}
+.About-Area-part img{
+    width: 80%;
+}
