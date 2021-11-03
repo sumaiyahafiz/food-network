@@ -41,7 +41,8 @@ h1{
     padding-right: 5%;
 }
 .About-Area-part img{
-    width: 80%;
+    width: 100%;
+    padding-left: -10%;
 }
 
 #recipies-area{
@@ -50,7 +51,9 @@ h1{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
     background-position:right;
-    display: flex;
+    display: flex; 
+    padding: 10%;
+
     
 }
 .recipies-area-part{
@@ -71,5 +74,24 @@ h1{
 h2{
     font-size: 30;
     text-align: center;
+   
 }
 
+
+#Bonas-area{
+    display: flex;
+}
+.Bonas-area-part{
+    display: flex;
+    padding: 10%;
+
+}
+
+
+footer p{
+    text-align: center;
+
+}
+h1{
+    font-size: 30px;
+}
